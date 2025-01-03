@@ -18,3 +18,14 @@ Multi-Platform Support: Can be integrated with websites, mobile apps, and messag
 Conversational Memory: Retains context during conversations for improved user experience.
 
 Open Source: Flexible and extensible codebase for community contributions.
+
+
+Tech Stack
+
+Backend: Python (Flask/Django)
+
+AI/NLP: TensorFlow, PyTorch, or OpenAI GPT-based models
+
+Database: PostgreSQL/MySQL/SQLite
+
+Deployment: Docker, AWS, or Google Cloud
