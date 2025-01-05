@@ -20,7 +20,7 @@ Conversational Memory: Retains context during conversations for improved user ex
 Open Source: Flexible and extensible codebase for community contributions.
 
 
-Tech Stack
+## Tech Stack
 
 Backend: Python (Flask/Django)
 
