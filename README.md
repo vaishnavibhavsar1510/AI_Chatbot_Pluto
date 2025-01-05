@@ -22,7 +22,6 @@ Open Source: Flexible and extensible codebase for community contributions.
 
 Tech Stack
 
-
 Backend: Python (Flask/Django)
 
 AI/NLP: TensorFlow, PyTorch, or OpenAI GPT-based models
@@ -43,3 +42,4 @@ $ python3 -m venv env
 $ source env/bin/activate
 
 Install Dependencies:
+
