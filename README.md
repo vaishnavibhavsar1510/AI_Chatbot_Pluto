@@ -7,7 +7,7 @@ Overview
 
 This is an AI-powered chatbot designed to provide seamless and intelligent conversations using Natural Language Processing (NLP). It can be customized for various use cases, including customer support, personal assistance, and task automation.
 
-## Features
+## Features: 
 
 AI-Powered Responses: Utilizes machine learning models for accurate and contextual answers.
 
